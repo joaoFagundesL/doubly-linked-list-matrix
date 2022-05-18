@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1652542959 source:/home/joao/Documents/Dev/proj/main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1652471818 /home/joao/Documents/Dev/proj/funcoes.h
+	<stdio.h>
+	<stdlib.h>
+
+1652543071 /home/joao/Documents/Dev/proj/matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1652543071 source:/home/joao/Documents/Dev/proj/matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
