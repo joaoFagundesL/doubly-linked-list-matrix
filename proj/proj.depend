@@ -17,3 +17,17 @@
 	<stdlib.h>
 	"matriz.h"
 
+1652543496 source:/home/joao/Documents/GitHub/doubly-linked-list-matrix/proj/main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1652543496 /home/joao/Documents/GitHub/doubly-linked-list-matrix/proj/matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1652559098 source:/home/joao/Documents/GitHub/doubly-linked-list-matrix/proj/matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
